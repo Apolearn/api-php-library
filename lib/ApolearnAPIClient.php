@@ -20,6 +20,7 @@ class ApolearnAPIClient
      * @var array
      */
 	private $settings;
+	
 	/**
      * @var string
      */
