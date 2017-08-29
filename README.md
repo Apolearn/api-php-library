@@ -8,7 +8,7 @@ Simple PHP client for Apolearn API 1.0
 Installation
 ------------
 
-**Normally:** If you *don't* use composer, don't worry - just include TwitterAPIExchange.php in your application.
+**Normally:** If you *don't* use composer, don't worry - just include ApolearnAPIClient.php in your application.
 
 ```php
 require_once('lib/ApolearnAPIClient.php');
